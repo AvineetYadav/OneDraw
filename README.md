@@ -19,7 +19,7 @@
 
 ## 🖼️ Demo
 
-> Live preview: [https://onedraw.yoursite.com](https://onedraw.yoursite.com)
+> Live preview: [[https://onedraw.yoursite.com](https://onedraw.yoursite.com)](https://one-draw.vercel.app/)
 
 ---
 
